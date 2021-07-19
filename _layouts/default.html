@@ -1,29 +1,27 @@
 <!DOCTYPE html>
-<!--
-  Original Design: Spectral by HTML5 UP
-    html5up.net | @n33co
-    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-  Jekyll build mod
--->
-<html>
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}">
 
   {% include head.html %}
 
-  <body>
-
-    <!-- Page Wrapper -->
-    <div id="page-wrapper">
-
-      {% include header.html %}
+  <body id="page-top">
 
       {{ content }}
 
-      {% include footer.html %}
+	  {% include footer.html %}
 
-      {% include scripts.html %}
+	  <!-- Bootstrap core JavaScript -->
+	  <script src="assets/js/jquery.min.js"></script>
+	  <script src="assets/js/bootstrap.bundle.min.js"></script>
 
-    </div>
+	  <!-- Plugin JavaScript -->
+	  <script src="assets/js/jquery.easing.min.js"></script>
+
+	  <!-- Contact form JavaScript -->
+	  <script src="assets/js/jqBootstrapValidation.js"></script>
+	  <script src="assets/js/contact_me.js"></script>
+
+	  <!-- Custom scripts for this template -->
+	  <script src="assets/js/agency.min.js"></script>
 
   </body>
-
 </html>

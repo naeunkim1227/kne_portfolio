@@ -1,17 +1,14 @@
 ---
 layout: default
 ---
-<article id="main">
+{% include nav.html %}
 
-  <header>
-    <h2>{{ page.title }}</h2>
-    <p>Aliquam ut ex ut interdum donec amet imperdiet eleifend</p>
-  </header>
+{% if page.background == "grey" or page.background == "gray" %}
+<script>
+document.getElementById("page-top").className="bg-light";
+</script>
+{% endif %}
 
-  <section class="wrapper style5">
-    <div class="inner">
-      {{ content }}
-    </div>
-  </section>
-
-</article>
+<div class="container" id="pagecontainer">
+{{ content }}
+</div>
