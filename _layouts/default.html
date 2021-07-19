@@ -1,27 +1,27 @@
 <!DOCTYPE html>
-<html lang="{{ site.locale | slice: 0,2 | default: "en" }}">
 
-  {% include head.html %}
+<!--
+  portfolYOU Jekyll theme by Youssef Raafat
+  Free for personal and commercial use under the MIT license
+  https://github.com/YoussefRaafatNasry/portfolYOU
+-->
 
-  <body id="page-top">
+<html lang="en" class="h-100">
 
-      {{ content }}
+{% include head.html %}
 
-	  {% include footer.html %}
+<body class="h-100 d-flex flex-column">
 
-	  <!-- Bootstrap core JavaScript -->
-	  <script src="assets/js/jquery.min.js"></script>
-	  <script src="assets/js/bootstrap.bundle.min.js"></script>
+  <main class="flex-shrink-0 container mt-5">
+    {% include navbar.html %}
+    {{ content }}
+  </main>
 
-	  <!-- Plugin JavaScript -->
-	  <script src="assets/js/jquery.easing.min.js"></script>
+  {% include footer.html %}
 
-	  <!-- Contact form JavaScript -->
-	  <script src="assets/js/jqBootstrapValidation.js"></script>
-	  <script src="assets/js/contact_me.js"></script>
+  {% include analytics.html %}
+  {% include scripts.html %}
 
-	  <!-- Custom scripts for this template -->
-	  <script src="assets/js/agency.min.js"></script>
+</body>
 
-  </body>
 </html>

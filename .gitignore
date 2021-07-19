@@ -1,8 +1,6 @@
+# Ruby Gems
 *.gem
-.bundle
-.sass-cache
-.jekyll-cache
-_site
-Gemfile.lock
-unused
-bootstrap-reference.html
+
+# Design Files
+*.psd
+*.ai
