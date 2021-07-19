@@ -11,18 +11,22 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: 김나은
+    text: 개발자의 포토폴리오
+    button: ABOUT ME
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "ABOUT ME"
+    text: "저를 소개합니다."
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "인적사항"
+        desc: "이름 : 김나은 |
+        생년월일 : 95.12.27 |
+        연락처 : 010-2337-0140 |
+        이메일 : kne@daum.net |
+        학력 : 경기대학교(외식조리학과)"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."

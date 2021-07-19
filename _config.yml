@@ -16,9 +16,9 @@ theme: jekyll-agency
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : 김나은의 portfolio
+title      : KNE's portfolio
 email      : kne0140@daum.net #this is also the email contact forms will go to
-description: "여긴어디죵"
+description: ""
 author     : 김나은
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
