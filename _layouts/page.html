@@ -1,7 +1,14 @@
 ---
 layout: default
 ---
+{% include nav.html %}
 
-<div class="col-lg-10 mx-auto mt-5 post">
-  {{ content }}
+{% if page.background == "grey" or page.background == "gray" %}
+<script>
+document.getElementById("page-top").className="bg-light";
+</script>
+{% endif %}
+
+<div class="container" id="pagecontainer">
+{{ content }}
 </div>
