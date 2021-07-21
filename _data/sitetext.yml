@@ -22,11 +22,9 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "인적사항"
-        desc: "이름 : 김나은 |
-        생년월일 : 95.12.27 |
-        연락처 : 010-2337-0140 |
-        이메일 : kne@daum.net |
-        학력 : 경기대학교(외식조리학과)"
+        desc: "이름 : 김나은
+        생년월일 : 95.12.27
+        "
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
