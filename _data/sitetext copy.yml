@@ -22,18 +22,14 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "인적사항"
-        desc: "
+        desc: "| 
         이름 : 김나은
-
         생년월일 : 95.12.27
-        
-        학력 : 경기대학교(외식조리학과)
-
-        이메일
+        즐어 ㅇ닒ㄴ아린얼
         "
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "EMAIL"
-        desc: "kne0140@daum.net"
+      - title: "Responsive Design"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
