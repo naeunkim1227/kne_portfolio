@@ -15,7 +15,7 @@ en: &DEFAULT_EN
     title: 개발자
     text: 김나은의 포토폴리오
     button: ABOUT ME
-    buttonlink: "#services"
+    buttonlink: "#aboutme"
 
 
 # -------------------헤더, ABOUT ME---------------------

@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   nav:
     - title: "ABOUT ME"
-      section: services
+      section: aboutme
     - title: "SKILLS"
       section: timeline
     - title: "PORTFOLIO"
