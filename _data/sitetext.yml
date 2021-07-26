@@ -37,7 +37,7 @@ en: &DEFAULT_EN
 
 
   
-  services:
+  about:
     title: "SKILLS"
     section: about
     list:
