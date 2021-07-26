@@ -32,32 +32,33 @@ en: &DEFAULT_EN
         icon : ""
       - title : "학력"
         desc: "경기대학교 외식조리학과"
-        icon: ""
-
-
+      - title : "EMAIL"
+        desc: "kne0140@daum.net"
+        
   about:
     title: "About Us"
     text: "our story"
     section: about
 
   timeline:
-    title: "About"
-    text: "Lorem ipsum timeline"
+    title: "SKILLS"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "An Agency is Born"
+      - title: "HTML,CSS,JS"
+        year: "FRONT-END"
+        image: "assets/img/front.png"
+      - title: "HTML,CSS,JS"
+        year: "FRONT-END"
+        image: "assets/img/front2.png"
+        
+      - title: "BACK-END"
         year: "March 2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
+      - title: "VERSION CONTROL"
         year: "2019"
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
         image: assets/img/timeline/3.jpg
