@@ -22,8 +22,10 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "인적사항"
-        desc: "| 이름 : 김나은
+        desc: "| 
+        이름 : 김나은
         생년월일 : 95.12.27
+        즐어 ㅇ닒ㄴ아린얼
         "
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
