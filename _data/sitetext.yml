@@ -87,7 +87,7 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
 
-  /////푸터
+
   footer:
     legal: "Privacy Policy"
     social:
