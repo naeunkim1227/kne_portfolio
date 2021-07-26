@@ -20,10 +20,10 @@ en: &DEFAULT_EN
 
 # -------------------헤더, ABOUT ME---------------------
 
-  services:
+  aboutme:
     title: "ABOUT ME"
     text: "저를 소개합니다."
-    section: services
+    section: aboutme
     list:
       - title: "이름"
         desc: "김나은"
@@ -58,11 +58,25 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close Project"
 
-
 #-------------portfolio------------------
 
 
 #--------------achive--------------------
+
+    team:
+    title: "OUR AMAZING TEAM"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    section: team
+    people:
+      - name: "Kay Garland"
+        role: "Lead Designer"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
   
 #--------------achive--------------------
 
