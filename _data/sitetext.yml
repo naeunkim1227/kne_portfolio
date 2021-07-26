@@ -39,6 +39,13 @@ en: &DEFAULT_EN
 
 # -------------------ABOUT ME , SKILLS---------------------
 
+  skills:
+    title: "skills"
+    text: "저를 소개합니다."
+    section: skills
+    list:
+      - title: "이tatwef"
+        desc: "김나은"
       
 #-------------portfolio------------------
 
