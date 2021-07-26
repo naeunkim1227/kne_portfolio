@@ -16,7 +16,7 @@
       <div class="col-md-4">
         
         <h4 class="service-heading">{{ service.title | markdownify }}</h4>
-        {% if service.desc %}<div class="text-muted">{{ service.desc | markdownify }}</div>{% endif %}
+        {% if service.desc %}<h5 class="text-muted">{{ service.desc | markdownify }}</h5>{% endif %}
       </div>
   {% endfor %}
     </div>
