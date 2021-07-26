@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: 김나은
-    text: 개발자의 포토폴리오
+    title: 개발자
+    text: 김나은의 포토폴리오
     button: ABOUT ME
     buttonlink: "#services"
 
@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "인적사항"
-        desc: "이름 : 김나은
+        desc: "이름 : 김나은 |
         생년월일 : 95.12.27
         "
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
