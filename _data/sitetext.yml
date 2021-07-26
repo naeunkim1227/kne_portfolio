@@ -39,12 +39,11 @@ en: &DEFAULT_EN
   
   services:
     title: "SKILLS"
-    text: "저를 소개합니다."
-    section: services
+    section: about
     list:
-      - title: "이름"
-        desc: "김나은"
-        icon : ""
+      - title: "FRONT-END"
+        desc: "HTML,CSS,JS"
+        image: "assets/img/front.png"
       - title: "생년월일"
         desc: "95.12.27"
         icon: ""
