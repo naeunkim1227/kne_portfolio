@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "인적사항"
-        desc: "|
+        desc: "
         이름 : 김나은
 
         생년월일 : 95.12.27
@@ -99,12 +99,7 @@ en: &DEFAULT_EN
 
 
 
-
-
-
-
-
- //푸터
+ //
 
   footer:
     legal: "Privacy Policy"
