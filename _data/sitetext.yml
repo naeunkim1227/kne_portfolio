@@ -47,6 +47,7 @@ en: &DEFAULT_EN
     list:
       - title: "이tatwef"
         desc: "김나은"
+        image: "asset/img/front.png"
       
 #-------------portfolio------------------
 

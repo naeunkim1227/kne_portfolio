@@ -15,8 +15,7 @@
 	  {% for service in site.data.sitetext[site.locale].skills.list %}
         <div class="col-md-4">
           <span class="fa-stack fa-4x">
-            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-            <i class=""></i>
+            <img src="{{skills.image}}" width="400px" height="300px">
           </span>
           <h4 class="service-heading">{{ service.title | markdownify }}</h4>
           {% if service.desc %}<div class="text-muted">{{ service.desc | markdownify }}</div>{% endif %}
