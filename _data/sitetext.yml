@@ -23,12 +23,16 @@ en: &DEFAULT_EN
     list:
       - title: "이름"
         desc: "김나은"
+        icon : ""
       - title: "생년월일"
         desc: "95.12.27"
+        icon: ""
       - title: "연락처"
         desc: "010-2337-0140"
+        icon : ""
       - title : "학력"
         desc: "경기대학교 외식조리학과"
+        icon: ""
 
 
   about:
