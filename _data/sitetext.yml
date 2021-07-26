@@ -8,13 +8,17 @@
 # {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
 
 # English (default)
-# -----------------
+# ---------------------header---------------------
+
 en: &DEFAULT_EN
   header:
     title: 개발자
     text: 김나은의 포토폴리오
     button: ABOUT ME
     buttonlink: "#services"
+
+
+# -------------------헤더, ABOUT ME---------------------
 
   services:
     title: "ABOUT ME"
@@ -36,70 +40,17 @@ en: &DEFAULT_EN
         desc: "kne0140@daum.net"
 
 
-  
-  about:
+# -------------------ABOUT ME , SKILLS---------------------
+
+    skills:
     title: "SKILLS"
-    section: about
+    section: skills
     list:
       - title: "FRONT-END"
         desc: "HTML,CSS,JS"
         image: "assets/img/front.png"
-      - title: "생년월일"
-        desc: "95.12.27"
-        icon: ""
-      - title: "연락처"
-        desc: "010-2337-0140"
-        icon : ""
-      - title : "학력"
-        desc: "경기대학교 외식조리학과"
-      - title : "EMAIL"
-        desc: "kne0140@daum.net"
-
-
-  about:
-    title: "About Us"
-    text: "our story"
-    section: about
-
-  timeline:
-    title: "SKILLS"
-    section: timeline
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "HTML,CSS,JS"
-        year: "FRONT-END"
-        image: "assets/img/front.png"
-      - title: "HTML,CSS,JS"
-        year: "FRONT-END"
-        image: "assets/img/front2.png"
-        
-      - title: "BACK-END"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "VERSION CONTROL"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
-
-
-
-  portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Project"
+     
+#-------------portfolio------------------
 
   portfolio:
     title: "Portfolio"
@@ -108,6 +59,16 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
 
+#-------------portfolio------------------
+
+
+#--------------achive--------------------
+  
+#--------------achive--------------------
+
+
+
+# ----------------footer----------------------
 
   footer:
     legal: "Privacy Policy"
