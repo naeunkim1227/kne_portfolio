@@ -39,6 +39,14 @@ en: &DEFAULT_EN
 
 # -------------------ABOUT ME , SKILLS---------------------
 
+    skills:
+    title: "SKILLS"
+    section: skills
+    list:
+      - title: "FRONT-END"
+        desc: "HTML,CSS,JS"
+        image: "assets/img/front.png"
+
      
 #-------------portfolio------------------
 
