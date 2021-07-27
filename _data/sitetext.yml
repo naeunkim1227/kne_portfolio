@@ -44,11 +44,17 @@ en: &DEFAULT_EN
     text: "저를 소개합니다."
 
     section: skills
-    list:
-      - title: "이tatwef"
-        desc: "김나은"
-        image: ../asset/img/front.png
-
+    people:
+      - name: "김나은"
+        role: "Lead Designer"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
       
 #-------------portfolio------------------
 
