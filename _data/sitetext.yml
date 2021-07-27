@@ -43,17 +43,11 @@ en: &DEFAULT_EN
     title: "SKILLS"
     subtext: "쉬발넘아 진짜...디지고 싶나.."
     section: team
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+    skill:
+      - name: "FRONT-END"
+        role: "HTML,CSS,JavaScript"
+        image: assets/img/front/500x500.png
+       
 
 
       
