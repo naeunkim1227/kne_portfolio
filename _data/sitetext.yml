@@ -39,7 +39,7 @@ en: &DEFAULT_EN
 
 # -------------------ABOUT ME , SKILLS---------------------
 
-  team:
+  skills:
     title: "OUR AMAZING TEAM"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: "좀되라 왜 안되는데"
