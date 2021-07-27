@@ -46,7 +46,7 @@ en: &DEFAULT_EN
     skill:
       - name: "FRONT-END"
         role: "HTML,CSS,JavaScript"
-        image: assets/img/front/500x500.png
+        image: assets/img/front.png
        
 
 
