@@ -56,9 +56,6 @@ en: &DEFAULT_EN
        - name: "CERTIFICATE"
         role: "HTML,CSS,JavaScript"
         image: assets/img/front.png
-      - name: "KNOWLEDGE"
-        role:
-
 
       
 #-------------portfolio------------------
