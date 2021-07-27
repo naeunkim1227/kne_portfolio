@@ -45,9 +45,20 @@ en: &DEFAULT_EN
     section: team
     skill:
       - name: "FRONT-END"
+        role: "HTML,CSS,JavaScript,AJAX,JQUERY"
+        image: assets/img/front.png
+      - name: "BACK-END"
+        role: "JAVA,servlet/JSP,SPRING"
+        image: assets/img/front.png
+        
+      - name: "DATA BASE"
         role: "HTML,CSS,JavaScript"
         image: assets/img/front.png
-       
+       - name: "CERTIFICATE"
+        role: "HTML,CSS,JavaScript"
+        image: assets/img/front.png
+      - name: "KNOWLEDGE"
+        role:
 
 
       
