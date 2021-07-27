@@ -39,13 +39,13 @@ en: &DEFAULT_EN
 
 # -------------------ABOUT ME , SKILLS---------------------
 
-  skills:
-    title: "skills"
-    text: "저를 소개합니다."
-
-    section: skills
+  team:
+    title: "OUR AMAZING TEAM"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    section: team
     people:
-      - name: "김나은"
+      - name: "Kay Garland"
         role: "Lead Designer"
         image: assets/img/team/500x500.jpg
         social:
@@ -55,6 +55,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+
+
       
 #-------------portfolio------------------
 
