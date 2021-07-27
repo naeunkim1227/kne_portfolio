@@ -42,7 +42,7 @@ en: &DEFAULT_EN
   skills:
     title: "OUR AMAZING TEAM"
     text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: "좀되라 왜 안되는데"
+    subtext: "쉬발넘아 진짜...디지고 싶나.."
     section: team
     people:
       - name: "Kay Garland"
