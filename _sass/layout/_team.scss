@@ -4,9 +4,11 @@
   text-align: center;
   box-sizing: border-box;
   border-radius: 10px;
-  box-shadow: 5px 5px rgb(94, 94, 97/ 20%);
   padding: 10px;
-  background-color: white;
+  border: 1px solid #CCC;
+  background: #FFF;
+  box-shadow: 2px 2px 3px #CCC;
+  line-height: 80px;
 
   img {
     width: 300px;
@@ -21,4 +23,9 @@
   p {
     margin-top: 0;
   }
+}
+
+.team-member:hover {
+  cursor: pointer;
+  box-shadow: none;
 }
