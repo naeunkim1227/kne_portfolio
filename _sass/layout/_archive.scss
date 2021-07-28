@@ -1,0 +1,28 @@
+// Styling for the team section
+.archives {
+  margin-bottom: 50px;
+  text-align: center;
+  box-sizing: border-box;
+  border-radius: 10px;
+  padding: 2em;
+  background: #FFF;
+  box-shadow: 5px 5px #CCC;
+  transition: 1s;
+  
+  h4 {
+    margin-top: 25px;
+    margin-bottom: 0;
+    text-transform: none;
+  }
+  p {
+    margin-top: 0;
+  }
+}
+
+.archives:hover {
+  cursor: pointer;
+  box-shadow: 10px 10px #CCC;
+  transition: transform 1s linear;
+  transform: translate(-4%, -4%);
+
+}
