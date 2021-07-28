@@ -79,7 +79,7 @@ en: &DEFAULT_EN
 
   archive:
     title: "archive"
-    section: team
+    section: archive
     archives:
       - name: "FRONT-END"
         role: "HTML,CSS,JavaScript,AJAX,JQUERY"
