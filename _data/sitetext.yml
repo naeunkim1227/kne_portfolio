@@ -49,14 +49,11 @@ en: &DEFAULT_EN
         image: assets/img/front.png
       - name: "BACK-END"
         role: "JAVA,servlet/JSP,SPRING"
-        
       - name: "DATA-BASE"
         role: "MYSQL"
-        
       - name: "VERSION CONTROL"
         role: "GITHUB"
-        
-       - name: "ETC"
+      - name: "ETC"
         role: "NOTION,JEKYLL,YAML,SCSS"
         
       
