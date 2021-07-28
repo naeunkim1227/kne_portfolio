@@ -22,7 +22,8 @@ en: &DEFAULT_EN
 
   services:
     title: "ABOUT ME"
-    text: "저를 소개합니다."
+    text: "'내가 이길 때까지 한다.' 개발을 공부하면서 생긴 저의 좌우명입니다. 
+    개발을 하며 마주하는 404페이지,수많은 오류들은 저에게 적수와 같았습니다. 오늘도 이기기 위해 코딩을 공부합니다. 이길 수 있을때까지 끊임없이 공부할 것입니다."
     section: services
     list:
       - title: "이름"
@@ -41,7 +42,6 @@ en: &DEFAULT_EN
 
   skills:
     title: "SKILLS"
-    subtext: "쉬발넘아 진짜...디지고 싶나.."
     section: team
     skill:
       - name: "FRONT-END"
@@ -49,7 +49,16 @@ en: &DEFAULT_EN
         image: assets/img/front.png
       - name: "BACK-END"
         role: "JAVA,servlet/JSP,SPRING"
-        image: assets/img/front.png
+        
+      - name: "DATA-BASE"
+        role: "MYSQL"
+        
+      - name: "VERSION CONTROL"
+        role: "GITHUB"
+        
+       - name: "ETC"
+        role: "NOTION,JEKYLL,YAML,SCSS"
+        
       
 #-------------portfolio------------------
 
