@@ -4,13 +4,14 @@
   text-align: center;
   box-sizing: border-box;
   border-radius: 10px;
-  padding: 10px;
-  border: 1px solid #CCC;
+  padding: 2em;
   background: #FFF;
-  box-shadow: 2px 2px 3px #CCC;
-  line-height: 80px;
+  box-shadow: 5px 5px #CCC;
+  border: 2px dotted #b8b8b8
+  transition: 1s;
 
   img {
+    box-sizing: border-box;
     width: 300px;
     height: 400px;
  
@@ -27,5 +28,6 @@
 
 .team-member:hover {
   cursor: pointer;
-  box-shadow: none;
+  border: 2px dotted orange;
+  box-shadow: 10px 10px #CCC;
 }
