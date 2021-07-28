@@ -49,13 +49,16 @@ en: &DEFAULT_EN
     skill:
       - name: "FRONT-END"
         role: "HTML,CSS,JavaScript,AJAX,JQUERY"
-        image: assets/img/front.png
+        image: assets/img/frontt.png
       - name: "BACK-END"
         role: "JAVA,servlet/JSP,SPRING"
+        image: assets/img/back.png
       - name: "DATA-BASE"
         role: "MYSQL"
+        image: assets/img/sql.png
       - name: "VERSION CONTROL"
         role: "GITHUB"
+        image: assets/img/github.png
       - name: "ETC"
         role: "NOTION,JEKYLL,YAML,SCSS"
         
