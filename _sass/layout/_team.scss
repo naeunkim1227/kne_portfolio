@@ -31,4 +31,7 @@
   cursor: pointer;
   border: 2px dotted orange;
   box-shadow: 10px 10px #CCC;
+  transition: transform 1s linear;
+  transform: translate(-10px, -10px);
+
 }
