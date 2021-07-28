@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
+  title: JUST SKIN
+  subtitle: 화장품 쇼핑몰 사이트
   thumbnail: https://place-hold.it/400x300
   
 #what displays when the item is clicked:

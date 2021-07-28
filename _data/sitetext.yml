@@ -59,15 +59,16 @@ en: &DEFAULT_EN
       - name: "VERSION CONTROL"
         role: "GITHUB"
         image: assets/img/github.png
-      - name: "ETC"
+      - name: "ETC KNOWLEDGE"
         role: "NOTION,JEKYLL,YAML,SCSS"
+        image: assets/img/etc.png
         
       
 #-------------portfolio------------------
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "개인, 팀 프로젝트"
     section: portfolio
     closebutton: "Close Project"
 
