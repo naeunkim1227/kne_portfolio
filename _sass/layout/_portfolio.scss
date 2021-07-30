@@ -3,14 +3,6 @@
   background-color: white;
   box-sizing: border-box;
 
-  .img-fluid22{
-    width: 100%;
-    height: 100%;
-    object-fit: cover; 
-  }
-
-
-
   .portfolio-item {
     right: 0;
     margin: 0 0 15px;
@@ -72,6 +64,13 @@
   * {
     z-index: 2;
   }
+
+  .img-fluid22{
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+  }
+
 }
 @media(min-width:767px) {
   #portfolio {
