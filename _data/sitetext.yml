@@ -83,7 +83,8 @@ en: &DEFAULT_EN
       - name: "NOTION"
         role: "공부한 것을 기록해 놓은 노션 페이지 입니다."
         image : assets/img/notion.png
-      - name: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - name: "GITBLOG"
+        url: https://naeunkim1227.github.io/
         role: "개발을 공부하면서 공유하고 싶은 정보들을 올려놓는 블로그 입니다. "
         image: assets/img/github.png
  

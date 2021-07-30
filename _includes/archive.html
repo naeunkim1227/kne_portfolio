@@ -12,7 +12,7 @@
 	<div class="col-sm-4">
 	  <div class="team-member">
 		<img src="{{ person.image }}" alt="">
-		<h4>{{ person.name }}</h4>
+		<a href="{{person.url}}"><h4 class="ac_url">{{ person.name }}</h4></a>
 		<p class="text-muted">{{ person.role }}</p>
 		<ul class="list-inline social-buttons">
 		{% for network in person.social %}
