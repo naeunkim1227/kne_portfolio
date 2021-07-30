@@ -78,9 +78,11 @@ en: &DEFAULT_EN
     section: archive
     archives:
       - name: "GIT-HUB"
+        url : https://github.com/naeunkim1227
         role: "프로젝트, 포트폴리오, 블로그의 코드가 있는 저장소 입니다."
         image: assets/img/github.png
       - name: "NOTION"
+        url: https://naeun1227.notion.site/8e25eb90a7f0467aba0726d7657af0c1
         role: "공부한 것을 기록해 놓은 노션 페이지 입니다."
         image : assets/img/notion.png
       - name: "GITBLOG"
