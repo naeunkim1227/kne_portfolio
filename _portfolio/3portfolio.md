@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: PORTFOLIO
   subtitle: portfolio
-  thumbnail: asset/img/port1.png
-  image: asset/img/port1.png
+  thumbnail: https://place-hold.it/400x300
+
 #what displays when the item is clicked:
 title: Title
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: asset/img/port1.png
+image: https://place-hold.it/400x300
 alt: ehlfks
 
 ---
