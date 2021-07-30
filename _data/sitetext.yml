@@ -79,11 +79,13 @@ en: &DEFAULT_EN
     archives:
       - name: "GIT-HUB"
         role: "프로젝트, 포트폴리오, 블로그의 코드가 있는 저장소 입니다."
+        image: assets/img/github.png
       - name: "NOTION"
         role: "공부한 것을 기록해 놓은 노션 페이지 입니다."
-      - name: "[GITBLOG] (https://en.wikipedia.org/wiki/Markdown)"
+        image : assets/img/notion.png
+      - name: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         role: "개발을 공부하면서 공유하고 싶은 정보들을 올려놓는 블로그 입니다. "
-          
+        image: assets/img/github.png
  
 #--------------achive--------------------
 

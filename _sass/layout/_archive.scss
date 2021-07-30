@@ -9,6 +9,15 @@
   box-shadow: 5px 5px #CCC;
   transition: 1s;
   
+  img {
+    text-align: center;
+    object-fit: contain;
+    width: 200px;
+    height: 100px;
+ 
+  }
+
+
   h4 {
     margin-top: 25px;
     margin-bottom: 0;
