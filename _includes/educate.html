@@ -12,11 +12,11 @@
     </div>
   
     <div class="row text-center">
-  {% for service in site.data.sitetext[site.locale].educate.list %}
+  {% for educate in site.data.sitetext[site.locale].educate.list %}
       <div class="col-md-4">
         
-        <h4 class="service-heading">{{ service.title | markdownify }}</h4>
-        {% if service.desc %}<h6 class="text-muted">{{ service.desc | markdownify }}</h6>{% endif %}
+        <h4 class="service-heading">{{ educate.title | markdownify }}</h4>
+        {% if educate.desc %}<h6 class="text-muted">{{ educate.desc | markdownify }}</h6>{% endif %}
       </div>
   {% endfor %}
     </div>
