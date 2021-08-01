@@ -37,7 +37,7 @@ en: &DEFAULT_EN
         desc: "경기대학교 외식조리학과"
       - title : "EMAIL"
         desc: "kne0140@daum.net"
-      - title : "CERTIFICATE"
+      - title : "자격증"
         desc : "정보처리기사 필기"    
 
 #----------------------------educate-----------------------
