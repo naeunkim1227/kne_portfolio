@@ -15,7 +15,7 @@ en: &DEFAULT_EN
     title: 개발자
     text: 김나은의 포토폴리오
     button: ABOUT ME
-    buttonlink: "#aboutme"
+    buttonlink: "#services"
 
 
 # -------------------헤더, ABOUT ME---------------------
@@ -56,7 +56,7 @@ en: &DEFAULT_EN
         role: "GITHUB"
         image: assets/img/github.png
       - name: "ETC KNOWLEDGE"
-        role: "NOTION,JEKYLL,YAML,SCSS"
+        role: "NOTION,JEKYLL,YAML,SCSS,BOOTSTRAP"
         image: assets/img/etc.png
         
       
@@ -91,6 +91,25 @@ en: &DEFAULT_EN
         image: assets/img/github.png
  
 #--------------achive--------------------
+
+#--------------contact-----------------------
+
+contact:
+    title: "Contact Us"
+    text: "Lorem ipsum or call 123456789"
+    section: contact
+    name: "Name*"
+    name-validation: "Please enter your name."
+    email: "Email*"
+    email-validation: "Please enter your email address."
+    phone: "Phone Number"
+    phone-validation: "Please enter your phone number."
+    message: "Message*"
+    message-validation: "Please enter a message."
+    subject: "Contact Form Submission"
+    submit: "Send Message"
+
+#--------------contact-----------------------
 
 
 

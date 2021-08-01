@@ -16,7 +16,6 @@ Use this area to describe your project. **Markdown** supported.
 optional info list (delete if not using):
 
 {:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
+- Date: 2021.06.15 ~ 2021.07.13
+- Category: 쇼핑몰 
 

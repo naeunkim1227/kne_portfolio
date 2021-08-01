@@ -12,17 +12,15 @@
 en: &DEFAULT_EN
   nav:
     - title: "ABOUT ME"
-      section: aboutme
+      section: services
     - title: "SKILLS"
-      section: timeline
+      section: skills
     - title: "PORTFOLIO"
       section: portfolio
     - title: "ARCHIVE"
-      section: team
+      section: archive
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
