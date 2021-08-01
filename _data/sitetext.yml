@@ -47,6 +47,13 @@ educate :
   title: "educate" 
 
   section: educate
+  list:
+      - title: "place"
+        desc: "itwill busan"
+      - title: "date"
+        desc: "2021.02.23 ~ 2021.07.13"
+      - title : "award"
+        desc : "팀프로젝트 최우수상"
 
 
 
