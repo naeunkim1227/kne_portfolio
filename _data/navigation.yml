@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     - title: "ABOUT ME"
       section: services
     - title: "SKILLS"
-      section: skills
+      section: team
     - title: "PORTFOLIO"
       section: portfolio
     - title: "ARCHIVE"
