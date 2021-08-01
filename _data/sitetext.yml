@@ -43,7 +43,7 @@ en: &DEFAULT_EN
 #----------------------------educate-----------------------
 
 
-educate : 
+educate: 
   title: "educate" 
 
     section: educate
