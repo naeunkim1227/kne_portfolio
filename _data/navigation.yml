@@ -13,6 +13,8 @@ en: &DEFAULT_EN
   nav:
     - title: "ABOUT ME"
       section: services
+    - title: "EDUCATE"
+      section : educate
     - title: "SKILLS"
       section: team
     - title: "PORTFOLIO"

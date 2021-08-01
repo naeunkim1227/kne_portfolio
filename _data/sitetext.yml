@@ -22,7 +22,9 @@ en: &DEFAULT_EN
 
   services:
     title: "ABOUT ME"
-    text: "안녕하세요. 될 때까지 하는 끈기있는 개발자 김나은입니다. 부족한 만큼 더 노력합니다."
+    text: "안녕하세요. 될 때까지 하는 끈기있는 개발자 김나은입니다. 부족한 만큼 더 노력합니다. "
+
+
     section: services
     list:
       - title: "이름"
@@ -35,9 +37,22 @@ en: &DEFAULT_EN
         desc: "경기대학교 외식조리학과"
       - title : "EMAIL"
         desc: "kne0140@daum.net"
+      - title : "CERTIFICATE"
+        desc : "정보처리기사 필기"
+      - title : 
+    
 
+    title: "educate"    
+    list:
+      - title: "place"
+        desc: "itwill busan"
+      - title: "date"
+        desc: "2021.02.23 ~ 2021.07.13"
+      - title : "award"
+        desc : "팀프로젝트 최우수상"
 
-# -------------------ABOUT ME , SKILLS---------------------
+#------------------ Educate , SKILLS------------------------------
+
 
   skills:
     title: "SKILLS"
