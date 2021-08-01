@@ -22,7 +22,7 @@ en: &DEFAULT_EN
 
   services:
     title: "ABOUT ME"
-    text: "안녕하세요. 될 때까지 하는 끈기있는 개발자 김나은입니다. 부족한 만큼 더 노력합니다. "
+    text: "안녕하세요. 될 때까지 하는 끈기있는 개발자 김나은입니다. 부족한 만큼 더 노력합니다."
 
 
     section: services
@@ -42,6 +42,9 @@ en: &DEFAULT_EN
       - title : 
     
 
+#----------------------------educate-----------------------
+
+section: educate
     title: "educate"    
     list:
       - title: "place"
