@@ -48,7 +48,6 @@ en: &DEFAULT_EN
 educate : 
   title: "educate"    
 
-
   section: educate
     list:
       - title: "place"
