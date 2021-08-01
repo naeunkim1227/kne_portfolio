@@ -44,13 +44,16 @@ en: &DEFAULT_EN
 
 
   educate : 
-    title: "educate"
-    text: "ㅅㅂ 이새끼 말또 안들어 ㅅㅂ"
+    title: "EDUCATE"
 
     section: educate
     list:
-      - title: "이름"
-        desc: "김나은"
+      - title: "place"
+        desc: "itwill busan"
+      - title: "date"
+        desc: "2021.02.23 ~ 2021.07.13"
+      - title: "award"
+        desc : "팀 프로젝트 최우수상"
   
 
 
