@@ -44,8 +44,12 @@ en: &DEFAULT_EN
 
 #----------------------------educate-----------------------
 
-section: educate
-    title: "educate"    
+
+educate : 
+  title: "educate"    
+
+
+  section: educate
     list:
       - title: "place"
         desc: "itwill busan"
