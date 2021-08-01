@@ -53,7 +53,16 @@ en: &DEFAULT_EN
       - title: "date"
         desc: "2021.02.23 ~ 2021.07.13"
       - title: "subject"
-        desc: "java,jsp,jquery,oracle data base,mysql,html/css,spring framework,android"
+        desc: 
+          list:
+            - java
+            - jsp
+            - jquery
+            - oracle data base
+            - mysql
+            - html/css
+            - spring framework
+            - android
       - title: "award"
         desc : "팀 프로젝트 최우수상"
   
