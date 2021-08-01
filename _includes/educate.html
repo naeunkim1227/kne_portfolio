@@ -1,26 +1,26 @@
-<!-- educate -->
-<section class="page-section" id="{{ site.data.sitetext[site.locale].educate.section | default: "educate" }}">
+<!-- services -->
+<section class="page-section" id="{{ site.data.sitetext[site.locale].services.section | default: "services" }}">
   <div class="container">
 
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].educate.title | default: "educate" }}</h2>
-        {% if site.data.sitetext[site.locale].educate.text %}
-    <h6>{{ site.data.sitetext[site.locale].educate.text }}</h6>
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].services.title | default: "services" }}</h2>
+        {% if site.data.sitetext[site.locale].services.text %}
+    <h6>{{ site.data.sitetext[site.locale].services.text }}</h6>
     {% endif %}
       </div>
     </div>
   
     <div class="row text-center">
-  {% for educate in site.data.sitetext[site.locale].educate.list %}
+  {% for services in site.data.sitetext[site.locale].services.list %}
       <div class="col-md-4">
         
-        <h4 class="service-heading">{{ educate.title | markdownify }}</h4>
-        {% if educate.desc %}<h6 class="text-muted">{{ educate.desc | markdownify }}</h6>{% endif %}
+        <h4 class="service-heading">{{ services.title | markdownify }}</h4>
+        {% if services.desc %}<h6 class="text-muted">{{ services.desc | markdownify }}</h6>{% endif %}
       </div>
   {% endfor %}
     </div>
   
   </div>
 </section>
-<!-- End educate -->
+<!-- End services -->
