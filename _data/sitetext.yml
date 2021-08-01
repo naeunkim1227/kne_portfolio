@@ -43,8 +43,9 @@ en: &DEFAULT_EN
 #----------------------------educate-----------------------
 
 
-educate: 
-  title: "educate" 
+  educate : 
+    title: "educate"
+    text: "ㅅㅂ 이새끼 말또 안들어 ㅅㅂ"
 
     section: educate
     list:
