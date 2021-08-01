@@ -43,17 +43,6 @@ en: &DEFAULT_EN
 #----------------------------educate-----------------------
 
 
-educate : 
-  title: "educate" 
-
-    section: services
-    list:
-      - title: "이름"
-        desc: "김나은"
-  
-
-
-
 #------------------ Educate , SKILLS------------------------------
 
 
