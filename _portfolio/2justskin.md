@@ -13,8 +13,13 @@ alt: image alt text
 ---
 
 **mvc2**패턴 구조로 생성한 스킨케어 쇼핑몰 사이트입니다. 팀프로젝트에서 마이페이지 파트를 구현하였습니다. 
+
+
 주요 기능으로는 **java dateformat함수를 이용한 주문한 화장품 유통기한 등록/ 확인**할 수 있도록 하였습니다. 
-open한 화장품은 사용기간 확인하기 섹션에서 확인할 수 있으며, 버튼도 open완료로 변경하였습니다. 동일한 화장품을 1개 이상 구매하였을 경우, 테이블을 따로 생성하여 등록할 수 있도록 **sql trigger**이벤트를 사용해 보았습니다.  화장품 유통기한은 프로그레스바를 이용하여 동적인 효과를 주었습니다. 사용 완료한 화장품은 사용완료 버튼을 통해 삭제할 수 있도록 구현했습니다. 
+open한 화장품은 사용기간 확인하기 섹션에서 확인할 수 있으며, 버튼도 open완료로 변경하였습니다.
+
+동일한 화장품을 1개 이상 구매하였을 경우, 테이블을 따로 생성하여 등록할 수 있도록 **sql trigger**이벤트를 사용해 보았습니다.  화장품 유통기한은 프로그레스바를 이용하여 동적인 효과를 주었습니다. 사용 완료한 화장품은 사용완료 버튼을 통해 삭제할 수 있도록 구현했습니다. 
+
 **포인트,주문 내역 특정기간별, 선택한 기간별 조회**는 1,3,6개월 별 기간조회, 사용자가 선택하여 기간을 조회 할 수 있도록 하였습니다. 
 
 
@@ -27,8 +32,8 @@ open한 화장품은 사용기간 확인하기 섹션에서 확인할 수 있으
 - **database & server** : MYSQL, Tomcat Apach server , JDK
 - **사용언어** : JAVA, JSP Servlet,html/css,javascript,jquery, ajax
 - **structure** : mvc2 패턴을 이용한 쇼핑몰 구현
-- **도메인** : http://itwillbs4.cafe24.com/ShoppingMall/Main.me
-- <a href="https://github.com/naeunkim1227/ShoppingMall">**깃허브**<a>
+- **도메인** : <a href="http://itwillbs4.cafe24.com/ShoppingMall/Main.me">**Click!**<a>
+- **깃허브** : <a href="https://github.com/naeunkim1227/ShoppingMall">**Click!**<a>
 
 
 

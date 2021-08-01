@@ -28,7 +28,7 @@ ajax의 작동 방식과, 라이브러리의 사용방법, 기본적인 사이�
 - **database & server** : MYSQL, Tomcat Apach server , JDK
 - **사용언어** : JAVA, JSP Servlet,html/css,javascript,jquery, ajax
 - **구현기능** : 로그인/회원가입, 게시판, 파일 업로드, 댓글, 메일 보내기 , 카카오 api 지도
-- <a href="https://github.com/naeunkim1227/personal_Pj">**깃허브**</a>
+- **깃허브** :<a href="https://github.com/naeunkim1227/personal_Pj">**Click!**</a>
 
 
 

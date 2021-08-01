@@ -21,4 +21,4 @@ jekyll을 이용한 템플릿 적용,yaml언어를 사용한 정보 등록,scss�
 - **Category**: 포토폴리오 
 - **개발환경** : visual studio code
 - **도메인** : https://naeunkim1227.github.io/kne_portfolio/
-- <a href="https://github.com/naeunkim1227/kne_portfolio">**깃허브**</a>
+- **깃허브** : <a href="https://github.com/naeunkim1227/kne_portfolio">**Click!**</a>
