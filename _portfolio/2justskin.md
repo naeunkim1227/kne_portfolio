@@ -20,15 +20,15 @@ open한 화장품은 사용기간 확인하기 섹션에서 확인할 수 있으
 
 
 {:.list-inline} 
-- Date: 2021.06.10 ~ 2021.07.13
-- Category: 쇼핑몰 
-- 구현 파트 : 마이페이지 (화장품 유통기한 등록/확인하기, 찜목록, 주문 내역 기간별 조회 및 상세 조회 , 포인트 기간별 조회, 쿠폰 조회 ,회원정보 수정, 삭제)
-- 개발환경 : Eclipse
-- database & server : MYSQL, Tomcat Apach server , JDK
-- 사용언어 : JAVA, JSP Servlet,html/css,javascript,jquery, ajax
-- structure : mvc2 패턴을 이용한 쇼핑몰 구현
-- 도메인 : http://itwillbs4.cafe24.com/ShoppingMall/Main.me
-- 깃허브 : https://github.com/naeunkim1227/ShoppingMall
+- **Date**: 2021.06.10 ~ 2021.07.13
+- **Category**: 쇼핑몰 
+- **구현 파트** : 마이페이지 (화장품 유통기한 등록/확인하기, 찜목록, 주문 내역 기간별 조회 및 상세 조회 , 포인트 기간별 조회, 쿠폰 조회 ,회원정보 수정, 삭제)
+- **개발환경** : Eclipse
+- **database & server** : MYSQL, Tomcat Apach server , JDK
+- **사용언어** : JAVA, JSP Servlet,html/css,javascript,jquery, ajax
+- **structure** : mvc2 패턴을 이용한 쇼핑몰 구현
+- **도메인** : http://itwillbs4.cafe24.com/ShoppingMall/Main.me
+- <a href="https://github.com/naeunkim1227/ShoppingMall">**깃허브**<a>
 
 
 

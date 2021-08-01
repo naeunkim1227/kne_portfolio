@@ -19,8 +19,6 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "ARCHIVE"
       section: archive
-    - title: "Contact"
-      section: contact
 en-US:
   <<: *DEFAULT_EN
 en-CA:

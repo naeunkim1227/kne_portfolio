@@ -17,9 +17,8 @@ jekyll을 이용한 템플릿 적용,yaml언어를 사용한 정보 등록,scss�
 
 
 {:.list-inline} 
-- Date: 2021.07.16 ~ 2021.08.01
-- Category: 포토폴리오 
-- 개발환경 : visual studio code
-- 도메인 : https://naeunkim1227.github.io/kne_portfolio/
-- 깃허브 : https://github.com/naeunkim1227/kne_portfolio
-
+- **Date**: 2021.07.16 ~ 2021.08.01
+- **Category**: 포토폴리오 
+- **개발환경** : visual studio code
+- **도메인** : https://naeunkim1227.github.io/kne_portfolio/
+- <a href="https://github.com/naeunkim1227/kne_portfolio">**깃허브**</a>
