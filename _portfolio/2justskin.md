@@ -25,7 +25,7 @@ open한 화장품은 사용기간 확인하기 섹션에서 확인할 수 있으
 
 {:.list-inline} 
 - **Date**: 2021.06.10 ~ 2021.07.13
-- **구현 파트** : 화장품 사용기한 등록/확인하기,찜목록,주문 조회 및 상세 조회,포인트 쿠폰 조회,회원정보 수정 및 삭제)
+- **구현 파트** : 화장품 사용기한 등록/확인,찜목록,주문조회 및 상세조회,포인트쿠폰 조회,정보 수정삭제
 - **database & server** : MYSQL, Tomcat Apach server , JDK
 - **사용언어** : JAVA,JSP Servlet,html/css,javascript,jquery,ajax
 - **structure** : mvc2 패턴을 이용한 쇼핑몰 구현
