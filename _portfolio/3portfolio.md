@@ -5,8 +5,8 @@ caption: #what displays in the portfolio grid:
   thumbnail: assets/img/portfolio/03-thumbnail.png
 
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: PORTFOLIO
+subtitle: PORTFOLIO 사이트
 image: assets/img/portfolio/03-thumbnail.png
 alt: ehlfks
 
