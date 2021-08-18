@@ -17,7 +17,9 @@ api를 통해 데이터를 파싱하고,fullcalendar 라이브러리를 이용�
 
 
 {:.list-inline} 
-- **Date**: 2021.07.27 ~ 2021.08.08
-- **Category**:  
-- **개발환경** : Spring framework
+- **Date**: 2021.07.27 ~ 2021.08.18
+- **구현 파트** : 사용자가 관심으로 등록해 놓은 클래스,학원의 커리큘럼 달력으로 보기
+- **database & server** : MYSQL, Tomcat Apach server , JDK
+- **사용언어** :Spring framework,JAVA,JSP Servlet,html/css,javascript,jquery
+- **structure** : mvc 패턴을 사용한 서비스 사이트
 - **깃허브** : <a href="https://github.com/rnrudxo2872/all-job-go">**Click!**</a>
