@@ -13,8 +13,8 @@
 
 theme: jekyll-agency
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+url    : "http://naeunkim1227" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/kne_potofolio" # the subpath of your site, e.g. /blog
 
 title      : KNE's portfolio
 email      : kne0140@daum.net #this is also the email contact forms will go to
