@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: TIKITAKA
   subtitle: chatting application
-  thumbnail: assets/img/portfolio/03-thumbnail.png
+  thumbnail: assets/img/portfolio/05-thumbnail.jpg
 
 #what displays when the item is clicked:
 title: TIKITAKA
 subtitle: chatting application 사이트
-image: assets/img/portfolio/03-thumbnail.png
+image: assets/img/portfolio/05-thumbnail.jpg
 alt: ehlfks
 
 ---
@@ -20,4 +20,6 @@ jekyll을 이용한 템플릿 적용,yaml언어를 사용한 정보 등록,scss�
 - **Date**: 2021.11.15 ~ 2021.12.31
 - **Category**: 채팅
 - **개발환경** : visual studio code
-- **깃허브** : <a href="https://github.com/naeunkim1227/kne_portfolio">**Click!**</a>
+- **깃허브**
+  + REACT :<a href="https://github.com/naeunkim1227/tikitaka-react>**Click!** </a> 
+  + SPRING :<a href="https://github.com/naeunkim1227/tikitaka-spring>**Click!** </a>
