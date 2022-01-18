@@ -12,8 +12,8 @@
 
 en: &DEFAULT_EN
   header:
-    title: 김나은의 포토폴리오
-    text: Web Full-Stack Developer를 목표로 합니다.
+    title: Web Full-Stack Developer를 목표로 합니다.
+    text: 김나은의 포토폴리오
     button: ABOUT ME
     buttonlink: "#services"
 
@@ -49,13 +49,18 @@ en: &DEFAULT_EN
     section: educate
     list:
       - title: "place"
-        desc: "itwill busan"
+        desc: "itwill busan 개발자 양성과정"
       - title: "date"
         desc: "2021.02.23 ~ 2021.07.13"
       - title: "subject"
-        desc: "java / jsp / jquery /oracle data base / mysql / html/css / spring framework / android"
-      - title: "award"
-        desc : "팀 프로젝트 최우수상"
+        desc: "Java / Jsp / Jquery /Oracle Data Base / Html / Css / Spring Framework / Android"
+
+      - title: "place"
+        desc: "douzone&부산산업진흥정보원 주최 web fullstack 양성과정"
+      - title: "date"
+        desc: "2021.09.06 ~ 2021.12.31"
+      - title: "subject"
+        desc: "Spring Framework / React / JavaScript / node.js"
   
 
 
@@ -78,7 +83,7 @@ en: &DEFAULT_EN
         image: assets/img/sql.png
       - name: "VERSION CONTROL"
         role: "GITHUB,GIT"
-        image: assets/img/versioncotrol.png
+        image: assets/img/versioncontrol.png
       - name: "SERVER"
         role: "GCP,JENKINS"
         image: assets/img/server.png
