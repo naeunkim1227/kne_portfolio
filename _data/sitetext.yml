@@ -12,8 +12,8 @@
 
 en: &DEFAULT_EN
   header:
-    title: 개발자
-    text: 김나은의 포토폴리오
+    title: 김나은의 포토폴리오
+    text: Web Full-Stack Developer를 목표로 합니다.
     button: ABOUT ME
     buttonlink: "#services"
 
@@ -68,17 +68,20 @@ en: &DEFAULT_EN
     section: team
     skill:
       - name: "FRONT-END"
-        role: "HTML,CSS,JavaScript,AJAX,JQUERY"
+        role: "REACT,HTML,CSS,JavaScript,AJAX,JQUERY"
         image: assets/img/frontt.png
       - name: "BACK-END"
         role: "JAVA,servlet/JSP,SPRING"
         image: assets/img/back.png
       - name: "DATA-BASE"
-        role: "MYSQL"
+        role: "MYSQL,MARIADB,REDIS"
         image: assets/img/sql.png
       - name: "VERSION CONTROL"
-        role: "GITHUB"
-        image: assets/img/github.png
+        role: "GITHUB,GIT"
+        image: assets/img/versioncotrol.png
+      - name: "SERVER"
+        role: "GCP,JENKINS"
+        image: assets/img/server.png
       - name: "ETC KNOWLEDGE"
         role: "NOTION,JEKYLL,YAML,SCSS"
         image: assets/img/etc.png
@@ -105,14 +108,14 @@ en: &DEFAULT_EN
         url : https://github.com/naeunkim1227
         role: "프로젝트, 포트폴리오, 블로그의 코드가 있는 저장소 입니다."
         image: assets/img/github.png
-      - name: "NOTION"
-        url: https://naeun1227.notion.site/8e25eb90a7f0467aba0726d7657af0c1
-        role: "공부한 것을 기록해 놓은 노션 페이지 입니다."
-        image : assets/img/notion.png
       - name: "GITBLOG"
         url: https://naeunkim1227.github.io/
         role: "개발을 공부하면서 공유하고 싶은 정보들을 올려놓는 블로그 입니다. "
         image: assets/img/github.png
+      - name: "NOTION"
+        url: https://naeun1227.notion.site/8e25eb90a7f0467aba0726d7657af0c1
+        role: "공부한 것을 기록해 놓은 노션 페이지 입니다."
+        image : assets/img/notion.png
  
 #--------------achive--------------------
 
