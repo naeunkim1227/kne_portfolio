@@ -49,7 +49,7 @@ en: &DEFAULT_EN
     section: educate
     list:
       - title: "place"
-        desc: "itwill busan 개발자 양성과정"
+        desc: "itwill busan 자바(JAVA) 스프링(Spring) 웹앱 개발자 양성"
       - title: "date"
         desc: "2021.02.23 ~ 2021.07.13"
       - title: "subject"
