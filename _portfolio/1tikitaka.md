@@ -17,7 +17,11 @@ Real time Messaging으로 인하여 빈번하게 변경되는 데이터를 자�
 관리되는 데이터가 안정적이면서 확장성에 용이하며 Multi Thread환경으로 대용량 데이터 병렬처리에도 능숙한 Spring을 사용하였습니다.
 
 구현한 파트는 채팅 비즈니스 로직, 1:1채팅, 실시간 알림 파트이며
-**websocket**을 사용하여 redis에서 보내는 메세지를 실시간으로 받을 수 있도록
+**websocket**을 사용하여 redis에서 보내는 메세지를 실시간으로 받을 수 있도록 하였습니다.
+
+이 프로젝트를 통해 react와 spring를 cors를 사용해 연결하는 법에 대해 알게 되었으며, gcp를 사용하고 redis라는 새로운 db를 사용해본 계기가 되었습니다. 
+
+전체적으로 react,spring boot,mybatis,gcp,redis등 새로운 기술을 접하고 익힐 수 있게되었습니다.
 
 
 {:.list-inline} 
